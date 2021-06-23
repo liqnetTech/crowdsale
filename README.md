@@ -1,2 +1,3 @@
 # crowdsale
-Solidity sources of smart contracts
+Solidity sources of LIQNET ICO smart contracts
+Main contracts is a liqnetcoin & liqnetCrowdsale.
